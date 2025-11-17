@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "28028152887",
+    "project_id": "publicidade-tropical",
+    "storage_bucket": "publicidade-tropical.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:28028152887:android:7161469b8d9c159caa63b2",
+        "android_client_info": {
+          "package_name": "app.radio.tropical"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbBmTG0Iqt11xIN5Bi6qZQCY1uqWV8u9c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:28028152887:android:a6822e6d1f22b73faa63b2",
+        "android_client_info": {
+          "package_name": "br.app.radio_tres"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbBmTG0Iqt11xIN5Bi6qZQCY1uqWV8u9c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
